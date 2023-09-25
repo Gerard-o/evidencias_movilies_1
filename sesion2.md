@@ -18,25 +18,25 @@
 + a. if-else  
 + b. switch  
 + c. do-while  
-**d. for**    
++ **d. for**    
 
 **En Java, ¿cómo se declara una variable que no puede cambiar su valor después de la inicialización?**  
 
-**a. final**  
++ **a. final**  
 + b. static  
 + c. mutable  
 + d. const    
 
 **¿Qué palabra clave se utiliza para crear una nueva instancia de una clase en Java?**  
 
-**a. new**  
++ **a. new**  
 + b. create  
 + c. instance  
 + d. init     
 
 **¿Cuál es el operador utilizado para calcular el residuo de la división entre dos números enteros?**  
 
-**a. %**  
++ **a. %**  
 + b. /  
 + c. mod  
 + d. %%    
@@ -45,12 +45,12 @@
 
 + a. input()  
 + b. readLine()  
-**c. nextLine()**  
++ **c. nextLine()**  
 + d. get()    
 
 **¿Cuál de las siguientes opciones define correctamente un comentario de una sola línea en Java?**  
 
-**a. // Comentario de una línea**  
++ **a. // Comentario de una línea**  
 + b. / Comentario de una línea /  
 + c. Comentario de una línea  
 + d. -- Comentario de una línea    
@@ -59,12 +59,12 @@
 
 + a. for  
 + b. while  
-**c. do-while**  
++ **c. do-while**  
 + d. loop    
 
 **¿Qué palabra clave se utiliza para definir una función en Java?**  
 
-**a. method**  
++ **a. method**  
 + b. func  
 + c. define  
 + d. void    
@@ -72,7 +72,7 @@
 **¿Cuál es el resultado de la expresión: 5 + 3 * 2?**  
 
 + a. 16  
-**b. 11**  
++ **b. 11**  
 + c. 13  
 + d. 10    
 
@@ -81,25 +81,25 @@
 + a. console.print()  
 + b. System.println()  
 + c. print()  
-**d. System.out.println()**   
++ **d. System.out.println()**   
 
 **¿Cuál es el resultado de la expresión: 10 / 3?**  
 
-**a. 3.3333**  
++ **a. 3.3333**  
 + b. 3  
 + c. 3.0  
 + d. 3.3333    
 
 **En Java, ¿cuál es el operador lógico para la conjunción (AND)?**  
 
-**a. &&**  
++ **a. &&**  
 + b. ||  
 + c. !  
 + d. &    
 
 **¿Cuál de las siguientes opciones es el valor inicial por defecto de una variable de tipo int en Java?**  
 
-**a. 0**  
++ **a. 0**  
 + b. 1  
 + c. -1  
 + d. null    
@@ -107,7 +107,7 @@
 **¿Qué clase se utiliza para leer la entrada del usuario como números enteros desde la consola en Java?**  
 
 + a. StringReader  
-**b. InputStreamReader**  
++ **b. InputStreamReader**  
 + c. Scanner  
 + d. BufferedReader    
 
@@ -116,25 +116,25 @@
 + a. función void myFunction() { }  
 + b. void myFunction() { }  
 + c. void myFunction { }  
-**d. void myFunction()**    
++ **d. void myFunction()**    
 
 **¿Qué hace el operador de incremento (++) en Java?**  
 
 + a. Suma 1 al valor de la variable.  
 + b. Incrementa el valor de la variable en 2.  
-**c. Incrementa el valor de la variable en 1.**  
++ **c. Incrementa el valor de la variable en 1.**  
 + d. No tiene ningún efecto en la variable.     
 
 **¿Cuál es la sintaxis correcta para declarar un array en Java?**  
 
 + a. int numbers = new int[];  
 + b. int[] numbers = new int[];  
-**c. int[] numbers = new int[5];**  
++ **c. int[] numbers = new int[5];**  
 + d. int numbers = [1, 2, 3, 4, 5];    
 
 **¿Qué palabra clave se utiliza para salir de un bucle en Java?**  
 
-**a. break**  
++ **a. break**  
 + b. exit  
 + c. stop  
 + d. continue    
@@ -143,6 +143,6 @@
 
 + a. HelloWorld  
 + b. "HelloWorld"  
-+c. Hello + World  
-**d. HelloWorld**    
++ c. Hello + World  
++ **d. HelloWorld**    
 
