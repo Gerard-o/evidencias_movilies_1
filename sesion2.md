@@ -10,7 +10,7 @@
 
 + a. String  
 + b. Integer  
-**c. boolean**  
++ **c. boolean**  
 + d. Object    
 
 **¿Qué estructura de control se utiliza para repetir un bloque de código mientras se cumple una condición?**  
