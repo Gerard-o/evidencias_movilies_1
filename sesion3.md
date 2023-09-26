@@ -6,8 +6,7 @@
 
 <!-- Su documentación aquí -->
 
- https://docs.google.com/presentation/d/1WV0yTQCeb1Gcxckp31Gu7ewrgWyt8UWa/edit#slide=id.p6 
 
-[link text](../directory/article-name.yml) (no[link text](../directory/article-name-content.md))
-
+[ https://docs.google.com/presentation/d/1WV0yTQCeb1Gcxckp31Gu7ewrgWyt8UWa/edit#slide=id.p6 
+]
 
