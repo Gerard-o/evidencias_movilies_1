@@ -1,14 +1,13 @@
 <!-- No borrar o modificar -->
+
 [Inicio](./index.md)
 
 ## Sesión 4
 
-
 <!-- Su documentación aquí -->
 
-
-<pre> __
-package com.mycompany.sesion4;
+<pre> 
+            package com.mycompany.sesion4;
 
 
 public class Producto {
@@ -81,7 +80,7 @@ public class Producto {
 
     
        
-    } __
+    } 
       
         
           
@@ -124,7 +123,3 @@ public class Sesion4 {
         System.out.println("nuevo categoria " + producto1.getCategoria());
     }
 }
-    
-
-
-
