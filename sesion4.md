@@ -7,7 +7,7 @@
 <!-- Su documentación aquí -->
 
 
-<pre>
+<pre> __
 package com.mycompany.sesion4;
 
 
@@ -81,7 +81,7 @@ public class Producto {
 
     
        
-    }
+    } __
     
 
 
