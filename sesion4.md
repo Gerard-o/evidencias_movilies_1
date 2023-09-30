@@ -82,6 +82,48 @@ public class Producto {
     
        
     } __
+      
+        
+          
+            
+            package com.mycompany.sesion4;
+
+public class Sesion4 {
+
+    public static void main(String[] args) {
+
+        Producto producto1 = new Producto("cuaderno", 2000, 10, "norma", "elcid", "papeleria");
+
+        System.out.println("nombre del producto : " + producto1.getNombrepro());
+        System.out.println("precio del producto : " + producto1.getPreciopro());
+        System.out.println("cantidad del producto : " + producto1.getCantidad());
+        System.out.println("fabricante del producto : " + producto1.getFabricante());
+        System.out.println("marca del produtco : " + producto1.getMarca());
+        System.out.println("categoria del producto : " + producto1.getCategoria());
+
+        producto1.setCantidad(8);
+        producto1.setCategoria("estudiantes");
+        producto1.setFabricante("lope");
+        producto1.setMarca("paperama");
+        producto1.setNombrepro("borradores");
+        producto1.setPreciopro(1.000);
+
+        System.out.println("");
+        System.out.println("");
+        System.out.println("--------------------------------------------------Actualizacion de inventarios-------------------------------------------------- : ");
+        System.out.println("");
+        System.out.println("");
+
+        
+
+        System.out.println("nuevo nombre : " + producto1.getNombrepro());
+        System.out.println("nuevo preciopro : " + producto1.getPreciopro());
+        System.out.println("nuevo cantidad : " + producto1.getCantidad());
+        System.out.println("nuevo fabricante : " + producto1.getFabricante());
+        System.out.println("nuevo marca " + producto1.getMarca());
+        System.out.println("nuevo categoria " + producto1.getCategoria());
+    }
+}
     
 
 
