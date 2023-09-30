@@ -6,6 +6,8 @@
 
 <!-- Su documentación aquí -->
 
+##### Actividad: Creación de una clase de producto con modificadores de acceso y getters y setters
+
 <pre> 
             package com.mycompany.sesion4;
 
