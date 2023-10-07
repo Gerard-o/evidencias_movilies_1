@@ -1,13 +1,12 @@
 <!-- No borrar o modificar -->
+
 [Inicio](./index.md)
 
-## Sesión 9 
-
+## Sesión 9
 
 <!-- Su documentación aquí -->
 
 ##### Actividad: Ejericio POO
-
 
 <pre>
 
@@ -621,7 +620,3 @@ public programador(String unidadOrigen, String unidadDestino) {
         throw new UnsupportedOperationException("convertidor de unidades no compatibles");
     }
 }
-
-
-
-
