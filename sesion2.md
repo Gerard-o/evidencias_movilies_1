@@ -7,6 +7,7 @@
 <!-- Su documentación aquí -->
 ##### Actividad: Cuestionario
   
+```java
 
 **¿Cuál de las siguientes opciones es un tipo de dato primitivo en Java?**  
 
@@ -148,3 +149,4 @@
 + c. Hello + World  
 + **d. HelloWorld**    
 
+```
