@@ -8,6 +8,7 @@
 ##### Actividad: Cuestionario
   
 
+
 **¿Cuál de las siguientes opciones es un tipo de dato primitivo en Java?**  
 
 + a. String  
