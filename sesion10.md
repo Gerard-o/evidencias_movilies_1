@@ -351,9 +351,57 @@ public class CuentaPlazoFijo extends Cuenta  {
     
 }
 
+<pre>
+package com.mycompany.main;
 
-3ser punto aun en proceso
+public class MAIN {
+
+    public static void main(String[] args) {
+
+        Programador programador1 = new Programador();
+
+        int decimal = 15;
+        String binario = programador1.decimalaBinario(decimal);
+        String hexadecimal = programador1.decimalaHexadecimal(decimal);
+        String numbinario = "001001";
+        String hexadecimal2 = "e14";
+        int rdecimal = programador1.binarioaDecimal(numbinario);
+        String rbinario = programador1.hexadecimalaBinario(hexadecimal2);
+
+        System.out.println("Decimal a Binario : " + binario);
+        System.out.println("-----------------------------------------------------");
+        System.out.println("Decimal a Hexadecimal : " + hexadecimal);
+        System.out.println("-----------------------------------------------------");
+        System.out.println("Binario a Decimal : " + rdecimal);
+        System.out.println("-----------------------------------------------------");
+        System.out.println("Hexadecimal a Binario: " + rbinario);
+    }
+}
   
+    
+    
+package com.mycompany.main;
+
+
+public class Programador {
+   
+   public String decimalaBinario(int decimal) {
+        return Integer.toBinaryString(decimal);
+    }
+
+    public String decimalaHexadecimal(int decimal) {
+        return Integer.toHexString(decimal);
+    }
+
+    public int binarioaDecimal(String binario) {
+        return Integer.parseInt(binario, 2);
+    }
+
+    public String hexadecimalaBinario(String hexadecimal) {
+        int Decimal = Integer.parseInt(hexadecimal, 16);
+        return Integer.toBinaryString(Decimal);
+    }
+}
 
 
 
